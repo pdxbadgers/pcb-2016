@@ -1,0 +1,6 @@
+Designator,Quantity,Digikey Part #,Package,Type,Description
+"D1-D35, DNOSE",36,160-1448-2-ND,0603,SMT,Yellow LED
+U1,1,ATTINY85-20SURDKR-ND,8-SOIC,SMT,microcontroller
+"R17,R18",2,RMCF0805JT10M0DKR-ND,0805,SMT,resistor
+R1-R4,4,311-56ERDKR-ND,1206,SMT,resistor
+BT1,1,952-1735-6-ND,,SMT,cr2032 battery holder
